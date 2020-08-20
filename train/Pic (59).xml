@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>Pic (59).JPG</filename>
+	<path>C:\tensorflow1\models\models-master\research\object_detection\images\train\Pic (59).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>93</ymin>
+			<xmax>248</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

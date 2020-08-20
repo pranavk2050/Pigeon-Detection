@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>pic (209).jpg</filename>
+	<path>C:\tensorflow1\models\models-master\research\object_detection\images\test\pic (209).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>85</ymin>
+			<xmax>352</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>23</ymin>
+			<xmax>166</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
